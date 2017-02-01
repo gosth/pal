@@ -11,4 +11,5 @@
 #include "scene.h"
 #include "rixplay.h"
 #include "sound.h"
+#include "video.h"
 

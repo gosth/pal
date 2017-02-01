@@ -1,7 +1,7 @@
 [Project]
 FileName=sdlpal.dev
 Name=sdlpal
-UnitCount=22
+UnitCount=24
 Type=1
 Ver=1
 ObjFiles=
@@ -261,6 +261,26 @@ BuildCmd=
 FileName=rsxplay.h
 CompileCpp=1
 Folder=Header Files
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit23]
+FileName=video.h
+CompileCpp=1
+Folder=Header Files
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit24]
+FileName=video.c
+CompileCpp=1
+Folder=Source Files
 Compile=1
 Link=1
 Priority=1000
